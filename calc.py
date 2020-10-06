@@ -3,11 +3,12 @@ VALUES = {'ATK': 3077,  #攻強
           'CRIT_RATE': 421,  #暴擊值
           'CRIT_ATK': 178,  #爆傷
           'COOL_DOWN': 46, #冷卻縮減(百分比)
-          'ELEMENT_MULTIPLIER': 10, #元素伤害系数(百分比)
-          'SKILL_MULTIPLIER': 3.6, #技能伤害系数(百分比)
-          'DMG_MULTIPLIER': 10, #伤害加成系数(百分比)
-          'EXTRA_DMG_MULTIPLIER': 0, #额外伤害系数(百分比)
-          'BOSS_MULTIPLIER': 54.4}  #首领伤害系数(百分比)
+          'ELEMENT_MULTIPLIER': 10, #元素傷害系數(百分比)
+          'SKILL_MULTIPLIER': 3.6, #技能傷害系數(百分比)
+          'DMG_MULTIPLIER': 10, #傷害加成系數(百分比)
+          'EXTRA_DMG_MULTIPLIER': 0, #額外傷害系數(百分比)
+          'BOSS_MULTIPLIER': 54.4}  #首領傷害系數(百分比)
+
 
 VALUE_CHANGES = {'ATK': 500,
                  'ELEMENT_ATK': -200,  
